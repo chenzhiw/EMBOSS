@@ -38,4 +38,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/data/share/GenSET_root/programs/attribute_programs/EMBOSS-6.6.0/install/lib'
+libdir='/data/share/GenSET_root/programs/attribute_programs/EMBOSS-6.6.0/build/lib'
