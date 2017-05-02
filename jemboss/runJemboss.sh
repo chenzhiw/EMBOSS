@@ -5,7 +5,7 @@
 # Version: $Revision: 1.2 $
 # Modified $Date: 2012/07/23 13:47:14 $ by $Author: rice $
 
-export JEMBOSS_HOME="/usr/local/share/EMBOSS/jemboss";
+export JEMBOSS_HOME="/data/share/GenSET_root/programs/attribute_programs/EMBOSS-6.6.0/install/share/EMBOSS/jemboss";
 
 # Override an existing CLASSPATH environment variable
 

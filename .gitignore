@@ -2,8 +2,17 @@
 *.deps
 *config.h
 *stamp-h1
+*.libs/
 
 config.log
 config.status
 libtool
 autom4te.cache/
+
+# Object files
+*.o
+*.lo
+
+# Install files
+install/
+emboss/
